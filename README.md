@@ -1,9 +1,9 @@
-#Lecture 1
+# Lecture 1
 
-## Githum
+## Github
 The lectre was on GitHub
 
-Activities we did:
+## Activities we did:
 
 -git init
 -git status
@@ -18,6 +18,7 @@ Activities we did:
 ```javascript
 let x = "Testing 123"
 alert(x)
+```
 
 example of variable declaration `let x=1`
 
